@@ -66,20 +66,21 @@ Repository выполняет загрузку товаров из CSV, сохр
 
 ## Пошаговая инструкция для запуска
 
-1. Установить виртуальное окружение
+1. Клонировать репозиторий: git clone <ссылка_на_репозиторий> далее ссылка: https://github.com/almurev/KT-4-List-products
+2. Установить виртуальное окружение
     ```bash
    python -m venv .venv
    ```
    (Если не получается или нет интерпретатора - Settings - Python - Python Interpeter - Home (Icon) - Add Local Interpreter)
-2. Активировать окружение: 
+3. Активировать окружение: 
    ```bash
    .venv\Scripts\activate
    ```
-3. Установить зависимости:
+4. Установить зависимости:
    ```bash
    pip install -r requirements.txt
    ```
-4. Запустить приложение:
+5. Запустить приложение:
    ```bash
    python main.py
    ```
