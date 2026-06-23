@@ -70,6 +70,7 @@ Repository выполняет загрузку товаров из CSV, сохр
     ```bash
    python -m venv .venv
    ```
+   (Если не получается или нет интерпретатора - Settings - Python - Python Interpeter - Home (Icon) - Add Local Interpreter)
 2. Активировать окружение: 
    ```bash
    .venv\Scripts\activate
