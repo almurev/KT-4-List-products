@@ -1,0 +1,12 @@
+﻿article,photo,name,category,description,manufacturer,supplier,price,unit,stock_quantity,discount
+P001,img/phone_01.jpg,Смартфон X-Pro 128GB,Электроника,"Флагманский смартфон с камерой 50 Мп, 8 ГБ ОЗУ",TechNova,GlobalDistrib,29999.99,шт,15,5
+P002,img/laptop_02.jpg,"Ноутбук WorkBook Pro 15""",Электроника,"Ноутбук для работы: i5, 16 ГБ ОЗУ, SSD 512 ГБ",NoteCraft,TechSuppliers,54990.50,шт,3,20
+P003,img/headphones_03.jpg,Беспроводные наушники SoundBeat,Электроника,"Наушники с шумоподавлением, до 30 ч работы",AudioMax,SoundLink,8990.00,шт,0,16
+P004,img/keyboard_04.jpg,Механическая клавиатура RGB,Электроника,"Клавиатура с тактильными переключателями, RGB-подсветка",KeyMaster,PeripheryHub,6490.75,шт,22,5
+P005,img/mouse_05.jpg,Игровая мышь ViperX,Электроника,"Оптическая мышь 16000 DPI, 6 программируемых кнопок",GameGear,CyberDist,3290.00,шт,8,25
+P006,img/monitor_06.jpg,"Монитор UltraView 27""",Электроника,"2K, IPS, 144 Гц, HDMI/DP",ScreenTech,DisplayLink,24999.00,шт,7,0
+P007,img/tablet_07.jpg,"Планшет TabMax 10.1""",Электроника,"Планшет для учёбы и работы, 64 ГБ, LTE",PadWorld,MobileSuppliers,18999.99,шт,4,0
+P008,img/smartwatch_08.jpg,Умные часы FitTime Pro,Электроника,"Фитнес-трекер, GPS, водонепроницаемость",WearFit,SmartWear,12490.50,шт,0,5
+P009,img/router_09.jpg,Wi‑Fi роутер SpeedLink AX3000,Электроника,"Двухдиапазонный роутер, поддержка Wi‑Fi 6",NetWave,RouterDist,7990.00,шт,19,8
+P010,img/powerbank_10.jpg,Внешний аккумулятор PowerGo 20000 мАч,Электроника,"Быстрая зарядка, 2 USB-порта",PowerUp,BatteryLink,2990.99,шт,35,5
+P011,img/phone_01.jpg,Iphone 10 Pro Max,Электроника,Новый современный мощный телефон для звонков и сообщений.,Другое,Apple,30000.00,шт,45,11
